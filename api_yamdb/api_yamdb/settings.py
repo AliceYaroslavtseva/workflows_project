@@ -191,4 +191,3 @@ ROLE_CHOICES = (
     ('moderator', 'moderator'),
     ('admin', 'admin'),
 )
-
